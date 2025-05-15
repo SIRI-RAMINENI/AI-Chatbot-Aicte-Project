@@ -1,0 +1,111 @@
+{
+    "data": [
+        {
+            "message": "hello",
+            "category": "greetings"
+        },
+        {
+            "message": "hi",
+            "category": "greetings"
+        },
+        {
+            "message": "hey there",
+            "category": "greetings"
+        },
+        {
+            "message": "good morning",
+            "category": "greetings"
+        },
+        {
+            "message": "goodbye",
+            "category": "farewells"
+        },
+        {
+            "message": "bye",
+            "category": "farewells"
+        },
+        {
+            "message": "see you later",
+            "category": "farewells"
+        },
+        {
+            "message": "thanks",
+            "category": "thanks"
+        },
+        {
+            "message": "thank you",
+            "category": "thanks"
+        },
+        {
+            "message": "appreciate it",
+            "category": "thanks"
+        },
+        {
+            "message": "what can you do",
+            "category": "capabilities"
+        },
+        {
+            "message": "what are your capabilities",
+            "category": "capabilities"
+        },
+        {
+            "message": "help me",
+            "category": "capabilities"
+        },
+        {
+            "message": "how do you learn",
+            "category": "learning"
+        },
+        {
+            "message": "tell me about machine learning",
+            "category": "learning"
+        },
+        {
+            "message": "how does AI work",
+            "category": "learning"
+        },
+        {
+            "message": "what's the weather",
+            "category": "weather"
+        },
+        {
+            "message": "will it rain today",
+            "category": "weather"
+        },
+        {
+            "message": "tell me a joke",
+            "category": "jokes"
+        },
+        {
+            "message": "know any jokes",
+            "category": "jokes"
+        },
+        {
+            "message": "make me laugh",
+            "category": "jokes"
+        },
+        {
+            "message": "tell me about technology",
+            "category": "tech"
+        },
+        {
+            "message": "how does the internet work",
+            "category": "tech"
+        },
+        {
+            "message": "what is artificial intelligence",
+            "category": "tech"
+        }
+    ],
+    "categories": [
+        "greetings",
+        "farewells",
+        "thanks",
+        "capabilities",
+        "learning",
+        "weather",
+        "jokes",
+        "tech",
+        "unknown"
+    ]
+}
